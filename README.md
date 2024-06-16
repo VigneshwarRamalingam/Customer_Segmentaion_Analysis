@@ -21,7 +21,7 @@ Following the data cleaning procedure, the dataset is subjected to exploratory a
     <td><b>New Customers by Age Distribution</b></td>
   </tr>
   <tr>
-    <td>![image](https://github.com/VigneshwarRamalingam/Customer_Segmentaion_Analysis/assets/104707588/c2911f3a-afe1-4be8-9eda-2f849223f4bb)
+    <td> ![image](https://github.com/VigneshwarRamalingam/Customer_Segmentaion_Analysis/assets/104707588/46625d4c-0445-4c66-bf9b-a05cded07782)
  height="400" align="middle"></td>
     <td> ![image](https://github.com/VigneshwarRamalingam/Customer_Segmentaion_Analysis/assets/104707588/3f698db5-da25-451e-9b24-9316cfcdcc6c)
  height="400" align="middle"></td>
@@ -70,7 +70,9 @@ Following the data cleaning procedure, the dataset is subjected to exploratory a
   - New South Wales has the largest number of people who donot own a car.
   - In Victoria the proportion is quite even.
   - In Queensland the number of people owning a car is greater than who donot have a car.
-  <img src="data%20visualization/Car%20Owners%20by%20State.PNG" height="400" align="middle">
+ ![image](https://github.com/VigneshwarRamalingam/Customer_Segmentaion_Analysis/assets/104707588/2fc6729c-d247-45fa-8576-7d3602167a8c)
+
+
 
 
 ### RFM Analysis and Customer Segmentation
@@ -90,15 +92,18 @@ In this analysis the customer segment was divided into 11 groups. The groups bei
 - Almost lost Customers
 
 As of the current state of the Automobile business the current distribution of customers segments is depicted below:
-<img src="data%20visualization/Customer%20Segment%20Distribution.PNG" height="400" align="middle">
+![image](https://github.com/VigneshwarRamalingam/Customer_Segmentaion_Analysis/assets/104707588/1d7dccd9-ed59-4351-a7aa-d7b5caa0b3f1)
+
 
 ### 4. RFM Analysis: Scatter Plots
 #### Recency vs Monetary :
 The visualization shows that recent customers have purchased more products and generated relatively more revenue than the customers who visited a while ageo.<br>
-<img src="data%20visualization/Recency%20vs%20Monetary.PNG" height="400" align="middle"><br>
+![image](https://github.com/VigneshwarRamalingam/Customer_Segmentaion_Analysis/assets/104707588/238c7d99-4216-4764-85b4-13f7a08a212c)
+<br>
 
 #### Frequency vs Monetary : 
 The visualization shows that customers belonging to Platinum/ Very Loyal/ Becoming Loyal Customer Segments have a greater frequency and generate greater monetary for the business<br>
-<img src="data%20visualization/Frequency%20vs%20Monetary.PNG" height="400" align="middle"><br>
+![image](https://github.com/VigneshwarRamalingam/Customer_Segmentaion_Analysis/assets/104707588/5cdd0c0e-428d-4d2f-83eb-56fcce141d0a)
+<br>
 
 
