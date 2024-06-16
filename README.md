@@ -6,8 +6,7 @@ The purpose of this project is to conduct a Customer Segmentation Analysis for a
 
 ## Tableau Dashboard
 The Sales Dashboard for Customer Segmentation can be found [here](https://public.tableau.com/app/profile/vicky.ram/viz/Customer_segmentation_17185425519390/RFMDashboard).<br>
-<img src="data%20visualization/Sales%20Dashboard.gif" height="500" align="middle"><br>
-
+![image](https://github.com/VigneshwarRamalingam/Customer_Segmentaion_Analysis/assets/104707588/b978b80a-2d27-4bee-ac2a-d6cf74dc7cf2)
 
 ### Exploratory Data Analysis on Customer Segments
 After the data cleaning process, exploratory analysis on the dataset is performed and the following insights are obtained :
