@@ -9,12 +9,12 @@ The Sales Dashboard for Customer Segmentation can be found [here](https://public
 ![image](https://github.com/VigneshwarRamalingam/Customer_Segmentaion_Analysis/assets/104707588/b978b80a-2d27-4bee-ac2a-d6cf74dc7cf2)
 
 ### Exploratory Data Analysis on Customer Segments
-After the data cleaning process, exploratory analysis on the dataset is performed and the following insights are obtained :
-- <b>New vs Old Customers Age Distribution</b><br> 
-  - Most New customers are aged between 40-49 also for Old Customers the most of them are aged between 40-49
-  - The lowest number of customers for both the types of customers is present in the age bracket under 20 and above 80 age groups.
-  - The automobile company is popular among New Customers among the age groups 20-29 and 40-49. 
-  - A steep drop in customers is observed in the 30-39 age group among the New Customers<br>
+Following the data cleaning procedure, the dataset is subjected to exploratory analysis, which yields the following insights:
+- <b>Age Distribution of New vs. Old Customers 
+  - The majority of new clients and old customers are both between the ages of 40 and 49.
+  For both sorts of clients, the age groups under 20 and over 80 had the fewest customers overall.
+  - The car manufacturer is well-liked by new customers in the 40–49 and 20–29 age ranges. 
+  - The 30- to 39-year-old age group shows a sharp decline in new clients.(br>
   <table>
   <tr>
     <td><b>Old Customers by Age Distribution</b></td>
@@ -29,14 +29,14 @@ After the data cleaning process, exploratory analysis on the dataset is performe
   </table>
   
 - <b>Bike purchases over last 3 years by Gender</b><br> 
-  - Most bike puechases are done by Feamale over the last 3 years. Approximately 51% of the bike purchases are done by Female compared to 49% of the purchases being done by Male.
-  - The Female purchases are 10,000 more than that of Male purchases (numerically).
+   - Over the past three years, females have made the majority of bike purchases. In comparison to 49% of purchases made by men, women make about 51% of all bike purchases.
+   - Purchases made by women total 10,000 more than those made by men
   <img src="data%20visualization/Female%20vs%20Male%20Bike%20Purchases.PNG" height="400" align="middle">
   
 - <b>New vs Old Customers Job Industry Distribution</b><br> 
-  - Most New customers are from the Manufacturing and Financial Services sector (approx 20% of the New Customers).
-  - The lowest number of customers are from the Agriculture and Telecom sector approx 3%.
-  - Similar trend is observed among Old Customers as well.<br>
+  - Approximately 20% of new consumers come from the manufacturing and financial services sectors.
+  - The telecom and agriculture sectors account for the fewest customers—roughly 3%—among the total.
+  - An analogous pattern is noted among elderly clients as well.<br>
   <table>
   <tr>
     <td><b>Old Customers by Job Industry</b></td>
@@ -49,9 +49,9 @@ After the data cleaning process, exploratory analysis on the dataset is performe
   </table>
 
 - <b>Wealth Segmentation by Age Category</b><br> 
-  - Across all age categories the largest number of customers are from 'Mass Customer' Segment
-  - The next category comes from the 'High Net Worth' customers.
-  - In the age group 40-49, Affluent segment out performs the High Net Worth customers in terms of number of customers.<br>
+  - The 'Mass Customer' Segment comprises the greatest number of customers across all age groups. The 'High Net Worth' customers make up the next category.
+  - The number of clients in the Affluent sector surpasses that of the High Net Worth customers in the 40-49 age bracket.The 'Mass Customer' Segment comprises the greatest number of customers across all age groups. The 'High Net Worth' customers make up the next category.
+  - The number of clients in the Affluent sector surpasses that of the High Net Worth customers in the 40-49 age bracket.<br>
   <table>
   <tr>
     <td><b>Old Customers Wealth by Age Group</b></td>
