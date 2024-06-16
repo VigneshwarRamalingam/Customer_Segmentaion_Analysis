@@ -31,7 +31,7 @@ Following the data cleaning procedure, the dataset is subjected to exploratory a
 - <b>Bike purchases over last 3 years by Gender</b><br> 
    - Over the past three years, females have made the majority of bike purchases. In comparison to 49% of purchases made by men, women make about 51% of all bike purchases.
    - Purchases made by women total 10,000 more than those made by men
-  <img src="data%20visualization/Female%20vs%20Male%20Bike%20Purchases.PNG" height="400" align="middle">
+  <img src="screenshots/3.PNG" height="400" align="middle">
   
 - <b>New vs Old Customers Job Industry Distribution</b><br> 
   - Approximately 20% of new consumers come from the manufacturing and financial services sectors.
