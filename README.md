@@ -21,10 +21,10 @@ Following the data cleaning procedure, the dataset is subjected to exploratory a
     <td><b>New Customers by Age Distribution</b></td>
   </tr>
   <tr>
-    <td><img src="![image](https://github.com/VigneshwarRamalingam/Customer_Segmentaion_Analysis/assets/104707588/c2911f3a-afe1-4be8-9eda-2f849223f4bb)
-" height="400" align="middle"></td>
-    <td><img src="![image](https://github.com/VigneshwarRamalingam/Customer_Segmentaion_Analysis/assets/104707588/3f698db5-da25-451e-9b24-9316cfcdcc6c)
-" height="400" align="middle"></td>
+    <td>![image](https://github.com/VigneshwarRamalingam/Customer_Segmentaion_Analysis/assets/104707588/c2911f3a-afe1-4be8-9eda-2f849223f4bb)
+ height="400" align="middle"></td>
+    <td> ![image](https://github.com/VigneshwarRamalingam/Customer_Segmentaion_Analysis/assets/104707588/3f698db5-da25-451e-9b24-9316cfcdcc6c)
+ height="400" align="middle"></td>
   </tr>
   </table>
   
