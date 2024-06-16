@@ -21,8 +21,10 @@ After the data cleaning process, exploratory analysis on the dataset is performe
     <td><b>New Customers by Age Distribution</b></td>
   </tr>
   <tr>
-    <td><img src="data%20visualization/Old%20Customers%20Age%20Distribution.PNG" height="400" align="middle"></td>
-    <td><img src="data%20visualization/New%20Customers%20Age%20Distribution.PNG" height="400" align="middle"></td>
+    <td><img src="![image](https://github.com/VigneshwarRamalingam/Customer_Segmentaion_Analysis/assets/104707588/c2911f3a-afe1-4be8-9eda-2f849223f4bb)
+" height="400" align="middle"></td>
+    <td><img src="![image](https://github.com/VigneshwarRamalingam/Customer_Segmentaion_Analysis/assets/104707588/3f698db5-da25-451e-9b24-9316cfcdcc6c)
+" height="400" align="middle"></td>
   </tr>
   </table>
   
