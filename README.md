@@ -1,7 +1,7 @@
 # Data Analytics Customer Segmentation
 
 ## Goal of the project
-The purpose of this project is to conduct a Customer Segmentation Analysis for an Automobile bike Company. Customer segmentation is performed by developing a RFM Model. RFM (Recency, Frequency, Monetary) analysis is a behavior-based approach grouping customers into segments. It groups the customers on the basis of their previous purchase transactions. In this analysis the customer segment was divided into 11 groups. The analysis will help in determining which customers segments should be targeted in order to enhance sales revenue for the company. A <b>Sales Dashboard for Customer Segmentation</b> is developed using <b>Tableau</b> and the data quality assessment and analysis is done using <b>Python</b>.
+This assignment aims to perform a customer segmentation analysis for a company that manufactures automobile bikes. The process of creating an RFM Model is used to segment customers. Recency, Frequency, Monetary (RFM) analysis is a behavior-based strategy that divides clients into smaller groups. Customers are grouped based on prior purchases they have made. Eleven groups comprised the client segment in this investigation. The study will assist in identifying the customer categories that should be targeted to increase sales revenue for the business. A <b>Sales Dashboard for Customer Segmentation</b> is developed using <b>Tableau</b> and the data quality assessment and analysis is done using <b>Python</b>.
 
 
 ## Tableau Dashboard
