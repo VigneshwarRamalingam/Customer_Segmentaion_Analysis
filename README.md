@@ -6,7 +6,7 @@ This assignment aims to perform a customer segmentation analysis for a company t
 
 ## Tableau Dashboard
 The Sales Dashboard for Customer Segmentation can be found [here](https://public.tableau.com/app/profile/vicky.ram/viz/Customer_segmentation_17185425519390/RFMDashboard).<br>
-![image](https://github.com/VigneshwarRamalingam/Customer_Segmentaion_Analysis/assets/104707588/b978b80a-2d27-4bee-ac2a-d6cf74dc7cf2)
+
 
 ### Exploratory Data Analysis on Customer Segments
 Following the data cleaning procedure, the dataset is subjected to exploratory analysis, which yields the following insights:
